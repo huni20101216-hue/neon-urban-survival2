@@ -1,0 +1,8 @@
+{
+  "name": "Neon Urban Survival: Zombie FPS",
+  "description": "A high-quality first-person zombie shooter set in a procedurally generated neon city. Features multiple weapon types, dashing mechanics, and various zombie species.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
